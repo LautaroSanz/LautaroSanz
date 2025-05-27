@@ -23,4 +23,4 @@ Soy un estudiante apasionado por la tecnología, la programación y la resoluci�
 
 ## 📈 Estadísticas de GitHub
 
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=LautaroSanz&show_icons=true&theme=radical)
